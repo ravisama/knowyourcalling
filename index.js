@@ -1,9 +1,9 @@
 // Quiz result options in a separate object for flexibility
 var resultOptions = [
     {   title: 'Your character is ',
-        desc: '<p>Here, You are very Naughty person</p><img src="http://hd.wallpaperswide.com/thumbs/cute_baby_girl-t2.jpg"/>'},
+        desc: '<p>You are very Naughty person</p><img src="http://hd.wallpaperswide.com/thumbs/cute_baby_girl-t2.jpg"/>'},
     {   title: 'Your character is',
-        desc: '<p>Here, You are very Lovely person</p><img src="http://hd.wallpaperswide.com/thumbs/dreamy_child_girl-t2.jpg"/>'},
+        desc: '<p>You are very Lovely person</p><img src="http://hd.wallpaperswide.com/thumbs/dreamy_child_girl-t2.jpg"/>'},
     {   title: 'Your character is',
         desc: '<p>You are very Brilliant Person</p><img src="http://hd.wallpaperswide.com/thumbs/cute_stylish_child_girl-t2.jpg"/>'},
     {   title: 'Your character is',
