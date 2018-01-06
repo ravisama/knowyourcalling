@@ -1,15 +1,15 @@
 // Quiz result options in a separate object for flexibility
 var resultOptions = [
-    {   title: 'You Are This Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/tXTjD9k.jpg"/>'},
-    {   title: 'You Are That Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/dipkE0v.jpg"/>'},
-    {   title: 'You Are This Other Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/WXox0Yv.jpg"/>'},
-    {   title: 'You Are This One Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
-    {   title: 'You Are A Type Of Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/NH5cunw.png"/>'}
+    {   title: 'Your character is ',
+        desc: '<p>Here, You are very Naughty person</p><img src="http://hd.wallpaperswide.com/thumbs/cute_baby_girl-t2.jpg"/>'},
+    {   title: 'Your character is',
+        desc: '<p>Here, You are very Lovely person</p><img src="http://hd.wallpaperswide.com/thumbs/dreamy_child_girl-t2.jpg"/>'},
+    {   title: 'Your character is',
+        desc: '<p>You are very Brilliant Person</p><img src="http://hd.wallpaperswide.com/thumbs/cute_stylish_child_girl-t2.jpg"/>'},
+    {   title: 'Your character is',
+        desc: '<p>You are very Sacrificing Person</p><img src="http://hd.wallpaperswide.com/thumbs/girl_and_dog-t2.jpg"/>'},
+    {   title: 'Your character is',
+        desc: '<p>You are very Spicy Person</p><img src="http://hd.wallpaperswide.com/thumbs/cute_girl_smelling_a_flower-t2.jpg"/>'}
 ];
     
 // global variables
